@@ -6,7 +6,7 @@ const App = () => {
   return (
     <div className="container app">
       <div className="form-inline centerDiv">
-        <h3>To Do:</h3>
+        <h3>To Do List:</h3>
         <Form />
       </div>
       <div>
