@@ -1,0 +1,4 @@
+avoiding mutatoins in Redux, use: 
+	concat(), slice(), and ...spread for arrays
+	object.assig() and ...spread for objects
+first argument for connect must be nullwhen mapStateToProps is absent like in the Form example
